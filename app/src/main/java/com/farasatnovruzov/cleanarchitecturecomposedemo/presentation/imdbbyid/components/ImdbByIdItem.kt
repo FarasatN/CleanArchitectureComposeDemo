@@ -19,11 +19,11 @@ import com.farasatnovruzov.cleanarchitecturecomposedemo.domain.model.ImdbById
 
 @Composable
 fun ImdbByIdItem(imdbById: ImdbById) {
-    SelectionContainer {
+//    SelectionContainer {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -34,7 +34,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -45,7 +45,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -56,7 +56,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -68,7 +68,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -80,7 +80,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -92,7 +92,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -104,7 +104,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -116,7 +116,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -128,7 +128,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -140,7 +140,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -152,7 +152,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -164,7 +164,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -176,7 +176,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -188,7 +188,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -200,7 +200,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -212,7 +212,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -224,7 +224,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -236,7 +236,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -248,7 +248,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -260,7 +260,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -272,7 +272,7 @@ fun ImdbByIdItem(imdbById: ImdbById) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(color = Color.Magenta)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 10.dp),
             verticalAlignment = Alignment.CenterVertically,
 
@@ -281,5 +281,5 @@ fun ImdbByIdItem(imdbById: ImdbById) {
             Text(text = imdbById.Website!!, fontSize = 10.sp, fontStyle = FontStyle.Normal)
         }
 
-    }
+//    }
 }

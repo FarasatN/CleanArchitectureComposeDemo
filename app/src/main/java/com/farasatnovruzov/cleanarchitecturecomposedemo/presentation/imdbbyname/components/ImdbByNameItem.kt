@@ -37,7 +37,7 @@ fun ImdbByNameItem(imdbByName: ImdbByName) {
 
         Row(
             modifier = Modifier.fillMaxWidth()
-                .background(color = Color.Blue)
+                .background(color = Color.DarkGray)
                 .padding(horizontal = 16.dp),
             verticalAlignment = Alignment.CenterVertically,
             horizontalArrangement = Arrangement.SpaceBetween,
